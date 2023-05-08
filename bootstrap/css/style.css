@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.logo{
+    color:#fff ;
+    float:left;
+    margin-left: 337px;
+    margin-top: 25px;
+    font-size: 130%;
+    font-weight: 800;
+    transition: 0.5s;
+}
+.logo:hover{
+color: #828388;
+}
+.navbar{
+    float: right;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    margin-right: 370px;
+    margin-top: 35px;
+}
+.navbar a{
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 800;
+    transition: 0.5s;
+}
+.navbar a:hover{
+    color: #828388;
+}
+.firstnav{
+    color: #fff;
+}
+.secondnav{
+    margin: 0px 25px;
+    color: #fff;
+}
+.thirdnav{
+    color: #fff;
+}
+.fourthnav{
+    margin-left: 25px;
+    color: #fff;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.firstcenter{
+    margin-top: 0px;
+    font-size: 5rem;
+    margin-bottom: 0.5rem;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: #fff;
+}
+.secondcenter{
+    color:#fff ;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.img{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+    padding: 200px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+.news{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.firstH{
+    color: #212529;
+    font-weight: 800;
+    font-size: 2.25rem;
+    margin-bottom: 0.625rem;
+    margin-top: 1.875rem;
+}
+.firstHH{
+    color: #212529;
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-size: 1.75rem;
+}
+.firstP{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2rem 0;
+}
+.secondH{
+    color: #212529;
+    font-weight: 800;
+    font-size: 2.25rem;
+    margin-bottom: 0.625rem;
+    margin-top: 1.875rem;
+}
+.secondP{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2rem 0;
+}
+.thirdH{
+    color: #212529;
+    font-weight: 800;
+    font-size: 2.25rem;
+    margin-bottom: 0.625rem;
+    margin-top: 1.875rem;
+}
+.thirdHH{
+    color: #212529;
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-size: 1.75rem;
+}
+.thirdP{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2rem 0;
+}
+.fourthH{
+    color: #212529;
+    font-weight: 800;
+    font-size: 2.25rem;
+    margin-bottom: 0.625rem;
+    margin-top: 1.875rem;
+}
+.fourthHH{
+    color: #212529;
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-size: 1.75rem;
+}
+.fourthP{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2rem 0;
+}
+.older a{
+    color: #fff;
+    background-color: #0085A1;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    padding: 20px 10px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.older a:hover{
+    background-color: #054d5c;
+}
